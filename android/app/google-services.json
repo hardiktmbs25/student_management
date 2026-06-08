@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166096416684",
+    "project_id": "exam2-97601",
+    "storage_bucket": "exam2-97601.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166096416684:android:6166bbee558fe1adbb9409",
+        "android_client_info": {
+          "package_name": "com.example.exam1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmE7ICpYUzLGL7e-QNbpRCsCaK25aGdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166096416684:android:72fe1cca93e20381bb9409",
+        "android_client_info": {
+          "package_name": "com.example.student_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmE7ICpYUzLGL7e-QNbpRCsCaK25aGdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
